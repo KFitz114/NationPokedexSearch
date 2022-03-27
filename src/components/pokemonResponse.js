@@ -62,7 +62,7 @@ const PokemonGetter = () => {
                                         <img src={data.sprites["back_shiny"]} alt=""/>
                                     </div>
                                 <div className="divTableRow">
-                                    <div className="divTableCell">Types</div>
+                                    <div className="divTableCell">Type</div>
                                     <div className="divTableCell">{pkmnType}</div>
                                 </div>
                                 <div className="divTableRow">
